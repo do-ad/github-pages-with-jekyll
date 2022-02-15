@@ -1,1 +1,4 @@
-This is a quick draft of my blog post.
+---
+title: "First Blog"
+date: 2022-02-15
+---
